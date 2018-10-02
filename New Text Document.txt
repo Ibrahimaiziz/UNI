@@ -1,0 +1,35 @@
+ul {
+  list-style: none;
+  float :left;
+}
+ul li{
+   float: left;
+   background-color: red;
+   
+  border-radius left: 100px;
+   text-align: center;
+   display: block;
+}
+ul li a{
+  display: block;
+  text-decoration: none;
+  width: 130px;
+   height: 30px;
+   margin: 1px;
+   padding-top: 1px; 
+}
+<ul>
+  <li><a>CONTACT</a></li>
+  <li><a>PROGRAM</a></li>
+  <li><a>HOME</a></li>
+  <ul>
+    <li><a>HOME</a></li>
+  <li><a>HOME</a></li>
+  <li><a>HOME</a></li>
+  <li><a>HOME</a></li>
+</ul>
+  <li><a>DEPARTMRNT</a></li> 
+  <li><a>ABOUT</a></li>
+  <li><a>HOME</a></li>
+
+ </ul>
